@@ -1,7 +1,7 @@
 ---
 title: [BaekJoon] 백준 11653: 소인수분해
 categories: 
-  - BaekJoon
+- BaekJoon
 last_modified_at: 2021-05-09T23:45:00+09:00
 toc: true
 ---
