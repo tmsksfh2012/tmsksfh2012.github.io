@@ -1,5 +1,5 @@
 ---
-title: [BaekJoon] 백준 11653: 소인수분해
+title: "[BaekJoon] 백준 11653: 소인수분해"
 categories: 
   - BaekJoon
 last_modified_at: 2021-05-09T23:45:00+09:00
