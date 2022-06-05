@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"neon", "air", "aqua", "contrast", "dirt",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guri's DevLog****"
+title                    : "Guri's DevLog**"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Guri"
@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Guri"
-  avatar           : "/assets/images/ohjinjin.JPG"
+  # avatar           : "/assets/images/ohjinjin.JPG"
   bio              : "I am an **amazing** person."
   location         : "Korea Aerospace Univ."
   email            : "aa84725659@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ohjinjin0408@naver.com
+      url: mailto:aa84725659@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "github.io.tmsksfh2012"
